@@ -2,7 +2,6 @@
 # Note that there is approximately around 15808 - 14563  = 1200 rows that have nan values that are incorrect.
 
 # %% [markdown]
-# 
 
 # %%
 import seaborn as sns

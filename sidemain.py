@@ -486,7 +486,6 @@ def resampling_algorithm_from_article(X0,W0):
     return(X1,W1)
 
 
-
 def montecarlo(X0,W0, obs):
     X1 = np.multiply(np.random.uniform(low = 0.9, high = 1.1,size = len(X0)),X0) # Evolve according to our state model with uniform
     W1 = [scipy.stats.poisson.pmf(k = obs, mu = x) for x in X1] # Incoming likelihood
