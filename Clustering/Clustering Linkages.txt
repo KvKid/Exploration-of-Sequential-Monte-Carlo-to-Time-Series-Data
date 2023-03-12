@@ -1,0 +1,40 @@
+Single Linkage: 
+ 
+Cluster 1
+Racism   Homosexuality   Homophobia   Intersectionality   Toxic   Woke   Cancel   Gender roles   Other gender   Discrimination   Agriculture   Labor Unions   Secretary of Defence   Secretary of Foreign Affairs   Demonstrations   Immigration   Secretary of State Home Office   
+
+Cluster 2
+Sexual minorities   Gender minorities   Misogyny   Gender identity   Feminism   Masculinity   Equality   Rainbow   Prime Minister   Government   Parliament   Industry   Climate   Elderly   Secretary of Treasury   School   Mortgage   
+
+Cluster 3
+Act Proposal   
+
+
+ 
+Complete Linkage: 
+ 
+Cluster 1
+Racism   Homosexuality   Homophobia   Intersectionality   Toxic   Woke   Cancel   Gender roles   Other gender   Discrimination   Agriculture   Act Proposal   Labor Unions   Secretary of Defence   Secretary of Foreign Affairs   Demonstrations   Secretary of State Home Office   
+
+Cluster 2
+Feminism   Government   Parliament   Industry   Immigration   
+
+Cluster 3
+Sexual minorities   Gender minorities   Misogyny   Gender identity   Masculinity   Equality   Rainbow   Prime Minister   Climate   Elderly   Secretary of Treasury   School   Mortgage   
+
+
+ 
+Average Linkage: 
+ 
+Cluster 1
+Feminism   Government   Parliament   Industry   School   
+
+Cluster 2
+Sexual minorities   Gender minorities   Misogyny   Gender identity   Masculinity   Equality   Rainbow   Prime Minister   Climate   Elderly   Secretary of Treasury   Mortgage   
+
+Cluster 3
+Racism   Homosexuality   Homophobia   Intersectionality   Toxic   Woke   Cancel   Gender roles   Discrimination   Agriculture   Labor Unions   Secretary of Defence   Secretary of Foreign Affairs   Demonstrations   Immigration   Secretary of State Home Office   
+
+Cluster 4
+Other gender   Act Proposal   
+

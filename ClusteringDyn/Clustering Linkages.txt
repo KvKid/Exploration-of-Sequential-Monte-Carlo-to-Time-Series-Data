@@ -1,0 +1,46 @@
+Single Linkage: 
+ 
+Cluster 1
+Government   Parliament   
+
+Cluster 2
+Discrimination   Agriculture   Secretary of Defence   Secretary of Foreign Affairs   Demonstrations   Immigration   Secretary of State Home Office   
+
+Cluster 3
+Industry   
+
+Cluster 4
+Climate   Elderly   Secretary of Treasury   School   
+
+Cluster 5
+Equality   
+
+Cluster 6
+Prime Minister   
+
+
+ 
+Complete Linkage: 
+ 
+Cluster 1
+Prime Minister   Government   Parliament   Elderly   Secretary of Treasury   School   
+
+Cluster 2
+Discrimination   Equality   Agriculture   Climate   
+
+Cluster 3
+Industry   Secretary of Defence   Secretary of Foreign Affairs   Demonstrations   Immigration   Secretary of State Home Office   
+
+
+ 
+Average Linkage: 
+ 
+Cluster 1
+Secretary of Defence   Secretary of Foreign Affairs   Demonstrations   Immigration   Secretary of State Home Office   
+
+Cluster 2
+Prime Minister   Government   Parliament   Industry   Elderly   Secretary of Treasury   School   
+
+Cluster 3
+Discrimination   Equality   Agriculture   Climate   
+
